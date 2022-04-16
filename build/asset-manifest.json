@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8484a1d8.css",
+    "main.js": "/static/js/main.6dfcfda1.js",
+    "static/js/787.714c200d.chunk.js": "/static/js/787.714c200d.chunk.js",
+    "static/media/bg-img.png": "/static/media/bg-img.88b23adfd8288d453515.png",
+    "static/media/charles-rRWiVQzLm7k-unsplash.jpg": "/static/media/charles-rRWiVQzLm7k-unsplash.0b577bcecacb6a749d39.jpg",
+    "static/media/matthew-hamilton-tNCH0sKSZbA-unsplash.jpg": "/static/media/matthew-hamilton-tNCH0sKSZbA-unsplash.528858228396f1389330.jpg",
+    "static/media/logo-ALTA-v2@2x.png": "/static/media/logo-ALTA-v2@2x.315cf9fc88594d578d3d.png",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.8484a1d8.css.map": "/static/css/main.8484a1d8.css.map",
+    "main.6dfcfda1.js.map": "/static/js/main.6dfcfda1.js.map",
+    "787.714c200d.chunk.js.map": "/static/js/787.714c200d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8484a1d8.css",
+    "static/js/main.6dfcfda1.js"
+  ]
+}
